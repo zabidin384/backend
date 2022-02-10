@@ -3,5 +3,19 @@
     { "title": "Ninja Web Designer", "id": "designer", "details": "A web designer is an IT professional who is responsible for designing the layout, visual appearance and the usability of a website. A good web designer needs to have both creative graphic skills and technical skills. They need to be able to visualise how a site will look (the graphical design of the site) and how it will function (conversion of a design into a working website)." },
     { "title": "Ninja Web Developer", "id": "developer", "details": "A web developer is a programmer or a coder who specializes in, or is specifically engaged in, the development of World Wide Web applications using a client–server model. The applications typically use HTML, CSS and JavaScript in the client, PHP, ASP.NET (C#), Python, Node.js, Go or Java in the server, and http for communications between client and server." },
     { "title": "Ninja Vue Developer", "id": "vue", "details": "Vue (pronounced /vjuː/, like view) is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS and JavaScript, and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be it simple or complex." }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae fugit exercitationem ipsum impedit dicta nihil praesentium aliquam vel quibusdam reiciendis ex sint cumque magnam ut vero pariatur soluta beatae placeat nobis quos, doloribus eligendi! Quam doloremque, modi voluptatibus dolores nulla eveniet blanditiis, dignissimos libero iusto ratione tenetur ab sed minima. Quae doloribus perspiciatis velit culpa, optio assumenda itaque, laboriosam laborum aliquid voluptate voluptates ad, odit impedit accusamus sequi esse? Illum blanditiis ea ipsam sunt suscipit, ut ullam facilis? Atque dicta minima neque adipisci iste quibusdam eius nihil consequatur facere quod voluptatibus numquam omnis deserunt tempore expedita incidunt, animi sunt at.",
+      "tags": ["webdev", "coding", "news"]
+    },
+    {
+      "id": 2,
+      "title": "top 5 css tips",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae fugit exercitationem ipsum impedit dicta nihil praesentium aliquam vel quibusdam reiciendis ex sint cumque magnam ut vero pariatur soluta beatae placeat nobis quos, doloribus eligendi! Quam doloremque, modi voluptatibus dolores nulla eveniet blanditiis, dignissimos libero iusto ratione tenetur ab sed minima. Quae doloribus perspiciatis velit culpa, optio assumenda itaque, laboriosam laborum aliquid voluptate voluptates ad, odit impedit accusamus sequi esse? Illum blanditiis ea ipsam sunt suscipit, ut ullam facilis? Atque dicta minima neque adipisci iste quibusdam eius nihil consequatur facere quod voluptatibus numquam omnis deserunt tempore expedita incidunt, animi sunt at.",
+      "tags": ["css", "webdev", "coding"]
+    }
   ]
 }
